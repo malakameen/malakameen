@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=180&section=header&text=Malak%20Ameen&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Computer%20Science%20%26%20AI%20Student&descAlignY=68&descSize=18"/>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Hello+World+%F0%9F%91%8B;I%27m+Malak+Ameen" alt="Typing SVG" />
+</h1>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Malak+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;CS+%26+AI+Student+%40+Cairo+University;ICPC+Community+Member+%F0%9F%8F%86;C%2B%2B+%7C+Python+Enthusiast;Problem+Solver+at+Heart+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=7873F5&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+CS+%26+AI+Student+%40+Cairo+University;%24+cat+interests.txt;%3E+ICPC+%7C+C%2B%2B+%7C+Python+%7C+Problem+Solving;%24+echo+%22Let%27s+build+something+amazing%22" alt="Typing SVG" />
 </h3>
 
 </div>
